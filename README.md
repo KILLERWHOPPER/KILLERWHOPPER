@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KILLERWHOPPER
 - 👀 I’m interested in rap
-- 🌱 I’m currently learning how to avoid accidential death
-- 💞️ I’m looking to collaborate on suiside
+- 🌱 I’m currently learning how to get rich
 - 📫 How to reach me depends on your luck
 
 <!---

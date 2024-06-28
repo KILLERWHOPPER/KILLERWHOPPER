@@ -1,6 +1,6 @@
 - 👋 @KILLERWHOPPER
-- 🌱 Comp Eng, MaGill, Rapper, Photographer, Chinese
-- 📫 Leave an issue under any of my repo to reach me
+- 🌱 Comp Eng, McGill, Rapper, Photographer, Chinese
+- 📫 Leave an issue under any of my repos to reach me
 
 <!---
 KILLERWHOPPER/KILLERWHOPPER is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
